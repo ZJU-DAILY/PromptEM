@@ -1,0 +1,331 @@
+Addr 10801 w. pico blvd. city west la phone 310-475-3585 type American class 534
+addr 2027 sawtelle blvd. city west la phone 310-479-2231 type ` noodle shop'class 535
+addr 3345 kimber dr. city westlake village phone 805-498-4049 Mexican class 536
+Addr 9882 Little San Monica blvd. City Wine Phone 310-788-2306 Class ` Pacific New Wave'Class 537
+Addr 1433 Third Walk Street San Monica Phone 310-458-2889 Category ` Fast Food'Category 538
+Addr 515 s. olive st. city los angeles phone 213-612-1580 type continental level 539
+Addr 45 s. Teacher ave. city pasadena phone 818-795-2478 category California 540
+Addr 19565 parthenia ave. city northridge phone 818-886-5679 type delis class 541
+addr 9600 brighton way city beverly hills phone 310-276-7732 class ` coffee shop'class 542
+addr 1570 rosecrans ave. s. city pasadena phone 310-643-5229 class California class 543
+addr 3838 centinela ave. city mar vista phone 310-397-5703 class Italy class 544
+addr 838 lincoln blvd. city Venice phone 310-399-1955 class 545
+Addr 9777 Little San Monica blvd. City Berry Phone 310-888-0108 Class ` Pacific New Wave'Class 546
+Addr 3266 w. The Sixth City La Phone 213-480-8668 Type of Hamburg Class 547
+addr 1716 pch city redondo beach phone 310-540-1222 class electrodes 548
+Addr 1020 n. san vicente blvd. city w. Hollywood phone 310-854-1111 type Russian class 549
+addr 1136 westwood blvd. city westwood phone 310-209-1422 class Italy class 550
+addr 8909 sunset blvd. city w. Hollywood phone 310-652-3100 category ` coffee shop'category 551
+Addr 1059 broxton ave. city westwood phone 310-208-4444 class 'Middle East' class 552
+Addr 1949 westwood blvd. city west la phone 310-475-0400 Type China Class 553
+addr 6333 w. third st. city la phone 213-933-0358 type cajun/creole class 554
+addr 6145 franklin ave. city Hollywood phone 213-467-7678 category ` coffee shop'category 555
+addr 10428 1/2 country blvd. city la phone 310-815-1290 type Indonesia class 556
+addr 8424 beverly blvd. city la phone 213-651-2866 category ` coffee shop'category 557
+Addr 502 santa monica blvd city santa monica phone 310-917-6671 class California class 558
+Addr 2011 Walk City Venice Telephone 310-306-1995 Class ` Hot Dogs'Class 559
+addr 1023 abbot kinney blvd. city venice phone 310-399-5811 category ` United States (new)'category 560
+addr 10516 w. pico blvd. city west la phone 310-204-0692 category ` coffee shop'category 561
+Addr 4017 s. sepulveda blvd. city culver city phone 310-397-6654 type delis class 562
+Addr 4663 Long Beach blvd. City Long Beach Phone 310-423-7327 Class South / Spirit Class 563
+addr 7507 melrose ave. city la telephone 213-651-3361 class US class 564
+Addr 4000 colfax ave. city studio city phone 818-508-1570 class of seafood 565
+Addr 6333 w. third st. city la phone 213-933-0773 type American class 566
+Addr 8393 w. beverly blvd. city la phone 213-655-9045 type of chicken 567
+Addr 10506 Little San Monica blvd. City Century Telephone 310-470-4992 Class ` French (new )'Class 568
+addr 22800 pch city malibu phone 310-456-6299 class Mexico class 569
+Addr 1842 e. First City Saint-Boyer hts. telephone 213-265-2887 Class Mexico / Germany - Mexico 570
+Addr 704 s. alvarado Saint Town La Phone 213-483-8050 Class Delis Class 571
+Addr 30869 thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand thousand
+addr 10509 w. pico blvd. city rancho park telephone 310-475-7564 class US class 573
+addr 519 s. fairfax ave. city la phone 213-938-8800 Classes of desserts 574
+Addr 22nd Street Grill 25 22nd City St. Hermosa Beach Phone 310-376-7786 Class 575
+addr 13329 Washington blvd. city marina del rey telephone 310-306-7829 class United States class 576
+Addr 1147 Third San Monica Phone 310-451-0843 California Class 577
+addr 8474 w. third st. city la phone 213-782-0181 category ` noodle shop'category 578
+Addr 7261 melrose ave. city la phone 213-935-5280 type hamburger class 579
+Addr 17040 ventura blvd. city encino phone 818-906-8881 type pizza class 580
+Addr 3117 Ocean Park blvd. City of San Monica Telephone 310-452-5728 Class USA Class 581
+Addr 145 n. Atlantic blvd. Montreal City Park Phone 818-308-2128 Sea Fruit Class 582
+Addr 875 s. figueroa Saint-Center City La Phone 213-627-6879 Class Dinner Class 583
+Addr 510 s. arroyo pkwy. city pasadena phone 818-795-1001 class California class 584
+Addr 642 Guangdong City China City Telephone 213-626-5530 Class 585
+Addr 709 n. la brea ave. city la phone 213-931-4223 category ` hot dog'category 586
+addr 2635 w. olive ave. city burbank phone 818-563-2252 Mexican class 587
+Addr 923 e. Third Sanctuary Los Angeles Telephone 213-687-7178 Category Japanese 588
+Addr 2901 pico blvd. city santa monica phone 310-828-7937 classroom 589
+addr 15322 ventura blvd. city encino phone 818-905-6515 class ` hot dog'class 590
+addr 45 s. fair oaks ave. city pasadena phone 818-796-7829 class dinner class 591
+Addr 1198 pch city cover beach phone 310-596-9556 type hamburger class 592
+Addr 224 s. beverly dr. city beverly hills phone 310-859-8744 class steakhouses class 593
+Addr 1505 Mission St. Pasadena Phone 818-799-4774 Type ` Pacific New Wave'Class 594
+addr 11288 ventura blvd. city studio city phone 818-508-7017 class Japanese 595
+Addr 8360 melrose ave. city la phone 213-653-7145 Dinner class 596
+addr 11677 san vicente blvd. city brentwood phone 310-207-7782 category ` noodle shop'category 597
+Addr 2575 beverly blvd. city la phone 213-389-9060 type hamburger class 598
+Addr 1305 High Mountains Ave. Manhattan City Beach Phone 310-545-5177 Class Dinner Class 599
+Addr 544 s. grand ave. city los angeles phone 213-891-0900 type of seafood 600
+Addr 1415 e. colorado st. city glendale phone 818-244-1937 class 'Middle East' class 601
+Addr 764 Ninth New York City Telephone 212-307-1612 Class Afghanistan Class 602
+Addr 21 e. 62nd New York City Telephone 212-223-2900 Class ` United States (New)'Class 603
+addr 93 ave. a city New York City phone 212-254-2054 Mexico class 604
+Addr 424 Amsterdam Ave. city New York city phone 212-595-7000 class Cuba 605
+Addr 331 w. Fourth City New York City Phone 212-242-9502 Class Hamburg 606
+Addr 368 bleecker New York City Telephone 212-242-0636 Class Italy Class 607
+Addr 87 e. The Fourth City New York City Phone 212-260-6800 Type of Seafood 608
+Addr 44 w. 56th New York City Telephone 212-432-7227 Class Indian 609
+Addr 432 Season 6 New York City Phone 212-473-5555 Class Dinner Class 610
+Addr 228 w. 47th New York City Phone 212-840-5000 Class Dinner Class 611
+Addr 24-02 31st Holy City Queen Phone 718-932-1510 Class Greek 612
+Addr 483 Amsterdam Ave. city New York city telephone 212-496-0163 class United States class 613
+Addr 2090 New York City Telephone 212-799-0243 Class ` Hot Dogs'Class 614
+Addr 86 w. Third City New York City Telephone 212-673-3783 Class Italy Class 615
+Addr 37-03 74th Holy City Queen Phone 718-672-1232 Category Indian 616
+Addr 9 pell Queen Telephone 718-539-3838 Class China Class 617
+Addr 48 w. 65th New York City Telephone 212-721-7001 Type Pizza Class 618
+Addr 127 Green City New York City Phone 212-228-1212 Classes All Asia Classes 619
+Addr 117 Second Class City New York City Telephone 212-674-4040 Class Ukraine Class 620
+City New York City Telephone 212-317-2802 Class Japanese Class 621
+Addr 2199 New York City Telephone 212-874-2780 Class 622
+Addr 3 e. 52nd New York City Telephone 212-752-1495 Class ` French (Classic)'Class 623
+Addr 61a Season 7 Brooklyn City Phone 718-399-7100 Thai Class 624
+Addr 32 Spring Saint City New York City Telephone 212-941-7994 Type Pizza Class 625
+Addr 466 Hudson New York City Telephone 212-741-3214 Class Asia 626
+Addr 39 w. 55th New York City Telephone 212-247-1585 Class Japanese Class 627
+Addr 296 bleecker New York City Telephone 212-989-1367 Class Indian Class 628
+Addr 435 Amsterdam Ave. New York City Phone 212-580-8686 Thai Class 629
+Addr 405 Atlantic Ave. Brooklyn City Phone 718-852-5555 Class 'Middle East' Class 630
+Addr 105 Hudson New York City Telephone 212-219-0500 Class Japanese Class 631
+Addr 17 barrow New York City Phone 212-228-0822 Class 632
+Addr Low City New York City Phone 212-490-6650 Class Seafood Class 633
+Addr 837 Second City New York City Phone 212-687-2953 Class Steakhouses Class 634
+Addr 840 Second Class City New York City Phone 212-697-5198 Class Steakhouses Class 635
+Addr 19 Old Fulton St. Brooklyn Phone 718-858-4300 Type Pizza Class 636
+Addr 178 Broadway Brooklyn Phone 718-387-7400 Class Steakhouses Class 637
+Addr 308 e. The Sixth City New York City Phone 212-533-5011 Type Indian Class 638
+Addr 411 Third Season New York City Phone 212-213-2288 Class China Class 639
+Addr 1295 Madison Ave. New York City Telephone 212-410-7335 United States Classes 640
+Addr 210 e. 46th New York City Phone 212-687-4855 Class Steakhouses Class 641
+Addr 5-16 51st ave. city queens phone 718-937-3030 class bbq class 642
+Addr 38 e. 51st New York City Telephone 212-755-1780 Class Japanese 643
+addr 328 lenox ave. city New York city phone 212-996-0660 class South / Spirit class 644
+Addr 1588 New York Ave. New York City Phone 212-535-5223 Class China Class 645
+Addr 1460 First Ave. City New York City Telephone 212-249-4615 Class China Class 646
+Addr 80 montague Queen Telephone 718-520-2910 Class Polish 647
+Addr 151 Hudson New York City Telephone 212-334-1085 Thai Class 648
+Addr 106 Bavaria New York City Telephone 212-349-3132 Class Thailand Class 649
+Addr 144 Second Class City New York City Telephone 212-228-9682 Class Ukraine Class 650
+Addr 689 9th Class New York City Phone 212-245-0800 Class China Class 651
+Addr 107th fl. City New York City Phone 212-524-7000 Type Sperm Class 652
+Addr 205 e. 49th New York City Phone 212-753-0444 Class Steakhouses Class 653
+Addr 122 e. 17th New York City Telephone 212-475-0969 Class Japanese 654
+Addr 953 Secondary New York City Telephone 212-644-6740 Class Mexico Class 655
+Addr 401 s. 6th st. city las vegas phone 702-385-5016 category ` French (Classic)'class 656
+addr 3300 las vegas blvd. s. city las vegas phone 702-894-7350 type continental level 657
+Addr 3700 w. flamingo rd. city las vegas phone 702-252-7697 type of seafood 658
+Addr 3799 las vegas blvd. s. city las vegas phone 702-891-7374 type of seafood 659
+Addr 3700 w. flamingo rd. city las vegas phone 702-252-7702 Italian class 660
+addr 202 e. fremont st. city las vegas phone 702-385-4011 type continental level 661
+addr 3300 las vegas blvd. s. city las vegas phone 702-894-7111 class Asian level 662
+Addr 4750 W. Sahara Ave. City Las Vegas Telephone 702-870-8432 Class China Class 663
+addr 3595 las vegas blvd. s. city las vegas phone 702-737-7111 type continental 664
+addr 3145 las vegas blvd. s. city las vegas phone 702-733-4524 category ` French (new )'category 665
+Addr 3400 las vegas blvd. s. city las vegas phone 702-791-7352 type Chinese level 666
+Addr 3200 las vegas blvd. s. city las vegas phone 702-893-0703 类 steakhouses 类 667
+Addr 3925 paradise rd. city las vegas phone 702-792-9900 Italian class 668
+Addr 355 Conference Center Las Vegas Telephone 702-369-2305 Class Italy Class 669
+addr 3500 las vegas blvd. s. city las vegas phone 702-369-6300 class California class 670
+addr 128 e. fremont st. city las vegas phone 702-382-1600 category Steakhouses class 671
+Addr 129 fremont Las Vegas Telephone 702-385-7111 Class Italy Class 672
+addr 3645 las vegas blvd. s. city las vegas phone 702-739-4651 type sperm class 673
+addr 3799 las vegas blvd. s. city las vegas phone 702-891-7331 Italian class 674
+addr 103 w. paces ferry rd. city atlanta phone 404-233-5993 type continental level 675
+Addr 659 Peachtree St. Atlanta Phone 404-724-0444 Classes Sweets Classes 676
+addr 1134 euclid ave. city atlanta phone 404-223-5039 class Cajun/creole class 677
+addr 1437 virginia ave. city atlanta phone 404-766-9906 class bbq class 678
+addr 56 e. andrews dr. nw city Atlanta phone 404-231-5733 class ` French bistro'class 679
+Addr 375 14th St. Atlanta Phone 404-876-3872 Class South / Spirit Class 680
+addr 2911 s. pharr court city Atlanta phone 404-261-7015 class South / Spirit class 681
+Addr 4274 peachtree rd. city Atlanta phone 404-231-5907 class Vegetarianism class 682
+Addr 5975 roswell rd. city atlanta phone 404-256-1675 class ` Healthy food'class 683
+Addr 4199 paces ferry rd. city atlanta phone 770-432-2663 category ` United States (new)'category 684
+addr 1021 cobb pkwy. se city marietta phone 770-422-8042 class Hamburg class 685
+Addr 1215 Power Shipping Rd. City Marietta Phone 770-933-0909 Class Hamburg Class 686
+addr 70 w. paces ferry rd. city atlanta phone 404-262-2675 类 steakhouses 类 687
+addr 4279 roswell rd. city Atlanta phone 404-255-4868 class China class 688
+addr 1029 edgewood ave. se city Atlanta phone 404-523-1929 category South/South category 689
+Addr 600 ponce de leon ave. city Atlanta phone 404-888-9149 class Italy class 690
+Addr 1655 mclendon ave. city Atlanta phone 404-687-888 category sperm class 691
+Addr 1031 peachtree st. ne city atlanta phone 404-892-8226 type tex-mex class 692
+Addr 1087 Green St. Roswell Phone 770-992-5383 Class South / Spirit Class 693
+Addr 171 mcdonough blvd. city Atlanta phone 404-627-9268 class bbq class 694
+Addr 2905 buford hwy. city Atlanta phone 404-636-4094 class Cuba class 695
+Addr 2469 cobb pkwy. city smyrna phone 770-955-9444 category China class 696
+Addr 3675 satellite blvd. city Turtle phone 100-813-8212 class Indian 697
+addr 790 ponce de leon ave. city atlanta phone 404-876-6161 category ` coffee shop'category 698
+Addr 2970 cobb pkwy. city Atlanta telephone 770-955-6068 class United States class 699
+Addr 1248 clairmont rd. city decatur phone 404-325-3733 Class Cafe 700
+addr 4427 roswell rd. city atlanta phone 404-303-8201 class Spanish 701
+Addr 3525 mall blvd. city duluth phone 770-418-9969 type cafe 702
+Addr 1031 ponce de leon ave. city Atlanta phone 404-875-0276 classes dinner classes 703
+Addr 303 peachtree st. ne city atlanta phone 404-577-4366 type steakhouses class 704
+Addr 1248 clairmont rd. city atlanta phone 404-636-4280 Thai class 705
+Addr 3060 peachtree rd. city atlanta phone 404-240-1984 category Southwest 706
+addr 1495 chattahoochee ave. nw city Atlanta phone 404-352-9009 class Mexico class 707
+addr 4330 peachtree rd. city Atlanta phone 404-237-4116 class United States class 708
+addr 3391 peachtree rd. ne city Atlanta phone 404-814-1955 category Steakhouses category 709
+Addr 2118 n. decatur rd. city decatur phone 404-633-3538 Vegetable 710
+Addr 519 e. paces ferry rd. city atlanta phone 404-262-7112 type Mediterranean level 712
+Addr 200 14th St. NW City Atlanta Phone 404-874-1388 Class ` Cafe'Class 713
+Addr 3330 piedmont rd. city atlanta phone 404-233-2005 class Japanese 714
+Addr 764 Marietta St. NW City Atlanta Phone 404-688-5855 Class Coffee Class 715
+addr 774 ponce de leon ave. ne city Atlanta phone 404-892-0193 type tex-mex class 716
+Addr 70 w. crossville rd. city roswell phone 770-993-1156 class ` United States (new)'class 717
+Addr 220 Sand Springs City Atlanta Phone 404-231-3111 Class Vegetarianism Class 718
+addr 3172 peachtree rd. ne city Atlanta phone 404-237-7601 class dinner class 719
+Addr 4837 Old State Hwy City College Park Phone 404-768-2705 Class Thailand Class 720
+addr 2315 clement San Francisco phone 415-221-5262 class Hamburg 721
+Addr 2298 Market St. Francis Phone 415-621-8579 California Class 722
+Addr 423 columbus ave. city san francisco phone 415-397-6261 type continental 723
+Addr 240 Columbus Ave. San Francisco Telephone 415-433-9623 Class Mexico 724
+Addr 1805 High San Francisco Phone 415-386-5758 Class Caribbean 725
+Addr 2217 Union St. Francis Phone 415-921-2149 Class United States Class 726
+Addr 522 jones San Francisco Phone 415-885-2767 Classes 727
+Addr 3221 Mission San Francisco Phone 415-826-4639 Thai Class 728
+Addr 1283 9th ave. San Francisco Phone 415-566-1770 Class Japanese 729
+Addr 1550 California San Francisco Phone 415-673-1155 Class Vietnamese 730
+Addr 1500 Church St. Francis Telephone 415-282-0919 Class China Class 731
+Addr 1582 Folsom St. Francis Phone 415-626-1985 Type of Hamburg 732
+Addr 333 Bush St. Francis Phone 415-362-4454 Class California Class 733
+Addr 515 valencia s. city san francisco phone 415-863-8205 Mexico type 734
+addr 288 noe st. city san francisco phone 415-431-7210 class Mediterranean level 735
+Addr 2889 Mission St. Francis Telephone 415-285-7117 Class Mexico Class 736
+addr 2209 polk San Francisco Telephone 415-776-8226 Class Italy 737
+Addr 2225 irving San Francisco Phone 415-665-9500 Thai Class 738
+Addr 3355 St. Francis's City Phone 415-387-2244 Class of Hamburg 739
+Addr 1322 awarded to St. Francis by phone 415-788-3779 category Hamburg 740
+Addr 631 larkin San Francisco Phone 415-775-5979 Category Cambodia 741
+Addr 2817 24th San Francisco Phone 415-550-9213 Class Mexico Class 742
+Addr 300 de haro San Francisco Telephone 415-626-6006 Class United States Class 743
+Addr 1328 18th San Francisco Phone 415-431-8956 Thai Class 744
+addr 584 valencia s. city san francisco phone 415-861-8032 class Vietnam class 745
+Addr 1517 polk st. city san francisco phone 415-673-1101 type of seafood 746
+Addr 400 San Francisco Telephone 415-431-2526 Thai Class 747
+Addr 3108 16th San Francisco Phone 415-252-7373 Type French Class 748
+Addr 1870 fillmore St. Francis Telephone 415-563-2248 Class United States 749
+Addr 8 The Sixth San Francisco Telephone 415-626-0927 Type Vietnamese Class 750
+Addr 201 ivy San Francisco Phone 415-863-2382 Type Pizza Class 751
+Addr 2141 polk San Francisco Phone 415-775-1055 Class Mexico Class 752
+addr 435 s. la cienega blvd. city los angeles phone 310-246-1501 category steakhouses category 0
+Addr 12224 ventura blvd. city studio city phone 818-762-1221 type Delis class 1
+Addr 701 Stone Canyon rd. city bel Air Phone 310-472-1211 California Class 2
+Addr 14016 ventura blvd. city sherman oaks phone 818-788-3536 class ` French bistro'class 3
+addr 624 s. la brea ave. city los angeles phone 213-938-1447 category California 4
+Addr 2709 Main City San Monica Phone 310-392-9025 Category ` Pacific New Wave'Category 5
+addr 6703 melrose ave. city los angeles phone 213-857-0034 class California class 6
+addr 8358 sunset blvd. city w. Hollywood phone 213-848-6677 category ` French (new )'category 7
+addr 23725 w. malibu rd. city malibu phone 310-456-0488 class California class 8
+addr 9560 dayton way city beverly hills phone 310-276-0615 category ` United States ( Traditional )'category 9
+addr 1972 hillhurst ave. city los feliz phone 213-665-1891 class Japanese 10
+addr 903 n. la cienega blvd. city w. Hollywood phone 310-652-9770 category ` French (Classic)'category 11
+addr 8284 melrose ave. city los angeles phone 213-655-8880 class ` French bistro'class 12
+Addr 8638 w. Third San Diego Los Angeles Phone 310-274-1893 Class 13
+addr 129 n. la cienega blvd. city beverly hills phone 310-659-9639 type of seafood 14
+Addr 9001 santa monica blvd. city w. Hollywood phone 310-550-8811 Steakhouses class 15
+addr 5955 melrose ave. city los angeles phone 213-467-1108 class California class 16
+Addr 1001 n. alameda st. city chinatown Telephone 213-628-3781 Classes 17
+addr 12969 ventura blvd. city studio city phone 818-990-0500 class ` French bistro'class 18
+addr 617 s. olive st. city los angeles 类 213-627-2300 类 ` nova cucina italian'类 19
+Addr 8795 Sunrise blvd. city w. Hollywood phone 310-652-4025 California class 20
+Addr 3115 pico blvd. city santa monica phone 310-829-4313 Italian class 21
+addr 67 n. raymond ave. city pasadena phone 818-585-0855 class China class 22
+Addr 21 w. 52nd New York City Telephone 212-582-7200 Class ` United States (New)'Class 23
+Addr 13 w. 54th New York City Telephone 212-307-7311 Class Scandinavia Class 24
+Addr 34 e. 61st New York City Telephone 212-319-1660 Class ` United States (New)'Class 25
+addr 201 w. 83rd New York City Telephone 212-496-6031 Class Cafe Category 26
+Addr 1 w. 67th New York City Telephone 212-877-3500 Class ` French (Classic)'Class 27
+Addr 2450 New York City Phone 212-362-2200 Class Italy Class 28
+Addr 854 Season 7 New York City Phone 212-757-2245 Class Delis Class 29
+Addr 2 Harrison New York City Telephone 212-966-6960 Class ` French (New)'Class 30
+Addr 20 e. 76th New York City Telephone 212-288-0033 Category ` French (New)'Category 31
+Addr 210 e. 58th New York City Telephone 212-355-7555 Class Indian Class 32
+Addr 243 e. 58th New York City Telephone 212-758-1479 Class 33
+Addr 99 e. 52nd New York City Telephone 212-754-9494 Category ` United States (New)'Category 34
+Addr 12 e. 12th New York City Telephone 212-620-4020 Class ` United States (New)'Class 35
+Addr 42 e. 20th New York City Telephone 212-477-0777 Category ` United States (New)'Category 36
+Addr 402 w. 44th New York City Phone 212-765-1737 Class Caribbean Class 37
+Addr 160 e. 64th New York City Telephone 212-223-5656 Class ` French bistro'Class 38
+Addr 33 w. 55th New York City Telephone 212-586-4252 Class ` French (Classic)'Class 39
+Addr 60 w. 55th New York City Telephone 212-688-6525 Class ` French (Classic)'Class 40
+Addr 155 w. 51st New York City Phone 212-489-1515 Type of Seafood 41
+Addr 155 w. 58th New York City Telephone 212-484-5113 Class ` French (Classic)'Class 42
+Addr 2 e. 55th New York City Telephone 212-339-6719 Class Asia 43
+Addr 249 e. 50th New York City Telephone 212-752-2225 Class ` French (Classic)'Class 44
+Addr 57 w. 58th New York City Phone 212-371-7777 Type of Seafood 45
+Addr 405 e. 58th New York City Telephone 212-754-6272 Class ` United States (New)'Class 46
+Addr 102 Fifth Class New York City Telephone 212-807-7400 Class Southwest 47
+Addr 57 Jane New York City Phone 212-627-8273 Class Mexico Class 48
+Addr 239 w. New York City Telephone 212-219-2777 Class ` French bistro'Class 49
+Addr 55 e. 54th New York City Telephone 212-759-5941 Type of Seafood 50
+Addr 100 e. 63rd New York City Telephone 212-644-1900 Class ` United States (New)'Class 51
+Addr 182 w. 58th New York City Telephone 212-245-2214 Class Russian Class 52
+Addr 35 w. 64th New York City Telephone 212-724-8585 Class Mediterranean 53
+Addr 95 ave. a city New York City Phone 212-260-6660 Type of Seafood 54
+addr 30 rockefeller plaza city phone 212-632-5000 class ` United States (new)'class 55
+Addr 1 water st. city brooklyn phone 718-522-5200 category ` United States (new)'category 56
+Addr 240 Central Park s. New York City Telephone 212-265-5959 Class Italy Class 57
+Addr 156 Second Class City New York City Phone 212-677-0606 Class Delis Class 58
+Addr 11 e. 53rd New York City Telephone 212-980-9393 Class Japanese 59
+Addr 155 e. 55th New York City Telephone 212-371-8844 Class Chinese 60
+Addr 1110 Third Ave. City New York City Telephone 212-861-80 Class ` United States (New)'Class 61
+Addr 797 Third Ave. City New York City Phone 212-753-1530 Class Steakhouses Class 62
+Addr Central Park West New York City Telephone 212-873-3200 Class ` United States (New)'Class 63
+Addr 747 9th New York City Telephone 212-245-7992 Class Greek 64
+Addr 21 e. 16th New York City Telephone 212-243-4020 Class ` United States (New)'Class 65
+Addr 152 w. 44th New York City Telephone 212-921-9494 Class bbq Class 66
+addr 3200 las vegas blvd. s. city las vegas phone 702-733-8899 class China class 67
+addr 3799 las vegas blvd. s. city las vegas phone 702-891-7349 class Southwestern 68
+Addr 3000 paradise rd. city las vegas phone 702-732-5651 class ` French bistro'class 69
+addr 3570 las vegas blvd. s. city las vegas phone 702-731-7110 category ` French (new )'category 70
+Addr 200 e. fremont st. city las vegas telephone 702-385-6277 class ` Pacific Ram'class 71
+addr 2880 las vegas blvd. s. city las vegas phone 702-734-0410 type steakhouses class 72
+Addr 2245 e. flamingo rd. city las vegas phone 702-731-4036 category steakhouses category 73
+addr 2355 peachtree rd. ne city Atlanta phone 404-261-8186 class Italy class 74
+Addr 3125 piedmont rd. city atlanta phone 404-365-0410 class California class 75
+addr 3130 piedmont rd. ne city Atlanta phone 404-237-2663 category Steakhouses category 76
+addr 3393 peachtree rd. city atlanta phone 404-266-1440 category ` French bistro'category 77
+Addr 3073 piedmont rd. city atlanta phone 404-262-3336 category ` United States (new)'category 78
+addr 1529 piedmont ave. city atlanta phone 404-874-7600 category ` French (new )'category 79
+Addr 1 Margaret Mitchell sq. city atlanta Phone 404-681-2909 Class Coffee 80
+Addr 2290 peachtree rd. city atlanta phone 404-352-3517 class Southwest 81
+addr 490 e. paces ferry rd. ne city Atlanta phone 404-233-7673 class continental 82
+Addr 595 piedmont ave. city Atlanta phone 404-876-4408 class Indian 83
+Addr 1397 n. High Mountain Ave. city Atlanta phone 404-876-0676 type sperm class 84
+addr 2637 peachtree rd. ne city Atlanta phone 404-231-1368 class Italy class 85
+Addr 224 ponce de leon ave. city Atlanta phone 404-876-1800 class South / Spirit class 86
+Addr 255 courtland Atlanta Phone 404-221-6362 Class Continental 87
+addr 1232 w. paces ferry rd. city atlanta phone 404-261-3662 category ` United States (new)'category 88
+addr 3434 peachtree rd. ne city atlanta phone 404-237-2700 category ` United States (new)'category 89
+addr 3434 peachtree rd. ne city Atlanta phone 404-237-2700 class ` United States (new)'class 90
+addr 181 peachtree st. city atlanta phone 404-659-0400 category ` French (Classic)'category 91
+addr 293-b peachtree rd. city atlanta phone 404-351-9533 category ` French (new )'category 92
+Addr 41 14th St. Atlanta Phone 404-875-8424 Class Italy Class 93
+addr 126 clement st. city san francisco phone 415-387-0408 category ` French (new )'category 94
+Addr 252 California San Francisco Telephone 415-956-9662 Category ` United States (New)'Category 95
+Addr 1 Mission St. Francis Phone 415-543-6084 Type ` United States (New)'Class 96
+Addr 7 claude ln. city san francisco phone 415-392-3505 category ` French bistro'category 97
+Addr 340 stockton st. city san francisco phone 415-955-5555 category ` United States (new)'category 98
+Addr 804 North Point St. Francis Telephone 415-775-7036 California 99
+addr 777 sutter st. city san francisco phone 415-673-7779 category ` French (new )'category 100
+Addr 570 Fourth San Francisco Telephone 415-543-0573 Class ` French bistro'Class 101
+addr 22 hawthorne st. city san francisco phone 415-777-9779 class California class 102
+Addr 5937 geary blvd. city san francisco phone 415-668-6654 Thai class 103
+addr 2316 polk st. city san francisco phone 415-776-5577 category ` French (new )'category 104
+Addr 816 folsom St. Francis Telephone 415-495-5775 Category Mediterranean 105
+addr 648 bush st. city san francisco phone 415-989-7154 category ` French (new )'category 106
+Addr 1737 Mail St. Francis Telephone 415-922-0337 Category Japanese 107
+addr 3127 fillmore st. city san francisco phone 415-563-4755 category ` United States (new)'category 108
+Addr 545 Mail St. Francis Phone 415-776-7825 Class California Class 109
+Addr 600 stockton st. city san francisco phone 415-296-7465 category ` French (new )'class 110
+Addr 532 columbus ave. city san francisco phone 415-399-0499 Italian class 111
+addr 181 peachtree st. city atlanta phone 404-659-0400 category ` United States (new)'category 711
