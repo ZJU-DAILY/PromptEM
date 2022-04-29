@@ -1,4 +1,4 @@
-# Prompt-tuning with Lightweight Self-training for Low-resource Generalized Entity Matching
+# PromptEM: Prompt-tuning for Low-resource Generalized Entity Matching
 
 PromptEM is a novel low-resource GEM (Generalized Entity Matching) solution powered by prompt-tuning and self-training. To address the gap between pre-training and fine-tuning, we cast GEM as a cloze-style task and design the GEM-specific prompt-tuning, which can stimulate the rich knowledge distributed in LMs. To select high-quality pseudo-labels, we develop a lightweight uncertainty-aware self-training method to boost performance. To further avoid expensive self-training, we prune useless training data dynamically using the proposed MC-EL2N, making the self-training process more lightweight and efficient. 
 
