@@ -6,15 +6,26 @@ from tqdm import tqdm
 from args import PromptEMArgs
 
 
-def get_prompt_class_label_words():
+def get_prompt_class_label_words(args:PromptEMArgs):
     classes = [
         "yes",
         "no",
     ]
-    label_words = {
-        "yes": ["matched", "similar", "relevant"],
-        "no": ["mismatched", "different", "irrelevant"],
-    }
+    if args.template_no==4 or args.template_no==5:
+        label_words = {
+            "yes": ["Yes"],
+            "no": ["No"],
+        }
+    elif args.one_word:
+        label_words = {
+            "yes": ["matched"],
+            "no": ["mismatched"],
+        }
+    else:
+        label_words = {
+            "yes": ["matched", "similar", "relevant"],
+            "no": ["mismatched", "different", "irrelevant"],
+        }
     return classes, label_words
 
 
@@ -24,6 +35,8 @@ def get_prompt_components(args: PromptEMArgs):
         '{"placeholder":"text_a"} {"placeholder":"text_b"} They are {"mask"}',
         '{"placeholder":"text_a"} {"soft": "is"} {"mask"} {"soft": "to"} {"placeholder":"text_b"}',
         '{"placeholder":"text_a"} is {"mask"} to {"placeholder":"text_b"}',
+        '{"placeholder":"text_a"} {"placeholder":"text_b"} {"soft": "Are they matched ? "} {"mask"}',
+        '{"placeholder":"text_a"} {"placeholder":"text_b"} Are they matched ? {"mask"}',
     ]
     classes, label_words = get_prompt_class_label_words()
     plm, tokenizer, model_config, WrapperClass = load_plm(args.model_type, args.model_name_or_path)
