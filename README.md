@@ -15,7 +15,7 @@ PromptEM is a novel low-resource GEM (Generalized Entity Matching) solution powe
 
 ## Datasets
 
-We use seven real-world benchmark datasets with different structures from [Machamp](https://github.com/megagonlabs/machamp).
+We use eight real-world benchmark datasets with different structures from [Machamp](https://github.com/megagonlabs/machamp) and [Geo-ER](https://github.com/PasqualeTurin/Geo-ER).
 
 ## Quick Start
 
