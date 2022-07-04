@@ -29,6 +29,7 @@ class PromptEMArgs:
         self.teacher_epochs = args.teacher_epochs
         self.student_epochs = args.student_epochs
         self.test_pseudo_label = args.test_pseudo_label
+        self.one_word=args.one_word
         if self.dynamic_dataset != -1:
             assert self.self_training
         if not self.self_training and len(args.test_pseudo_label) == 0:
@@ -69,7 +70,7 @@ def parse_args():
     parser.add_argument("--data_name", "-d", type=str,
                         choices=["rel-heter", "rel-text", "semi-heter", "semi-homo", "semi-rel", "semi-text-c",
                                  "semi-text-w", "all"], default="all")
-    parser.add_argument("--template_no", "-tn", type=int, default=0, choices=[0, 1, 2, 3])
+    parser.add_argument("--template_no", "-tn", type=int, default=0, choices=[0, 1, 2, 3, 4, 5])
     parser.add_argument("--self_training", "-st", action="store_true", default=False)
     parser.add_argument("--dynamic_dataset", "-dd", type=int, default=-1,
                         help="-1 means that dd is off, otherwise it means the frequency of dd.")
@@ -87,6 +88,7 @@ def parse_args():
     parser.add_argument("--teacher_epochs", "-te", type=int, default=20)
     parser.add_argument("--student_epochs", "-se", type=int, default=30)
     parser.add_argument("--test_pseudo_label", "-tpl", type=str, default="")
+    parser.add_argument("--one_word","-ow",action="store_true",default=False)
 
     args = parser.parse_args()
     return args
