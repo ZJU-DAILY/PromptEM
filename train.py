@@ -1,6 +1,5 @@
 import logging
 import random
-import time
 from torch import nn
 from torch.cuda.amp import autocast, GradScaler
 from torch.nn import CrossEntropyLoss
@@ -145,12 +144,10 @@ class BestMetric:
 
 def inner_train(args: PromptEMArgs, model, optimizer, scaler, train_dataloader, valid_dataloader, test_dataloader,
                 prompt=True):
-    st = time.time()
     if prompt:
         loss = train_prompt(args, model, train_dataloader, optimizer, scaler)
     else:
         loss = train_plm(args, model, train_dataloader, optimizer, scaler)
-    ed = time.time()
     logging.info(f"loss: {loss}")
     if prompt:
         valid_p, valid_r, valid_f1 = eval_prompt(args, model, valid_dataloader)
@@ -162,7 +159,7 @@ def inner_train(args: PromptEMArgs, model, optimizer, scaler, train_dataloader, 
     else:
         test_p, test_r, test_f1 = eval_plm(args, model, test_dataloader)
     logging.info(f"[Test] Precision: {test_p:.4f}, Recall: {test_r:.4f}, F1: {test_f1:.4f}")
-    return (valid_p, valid_r, valid_f1, test_p, test_r, test_f1), ed - st
+    return (valid_p, valid_r, valid_f1, test_p, test_r, test_f1)
 
 
 def update_best(model, metric, best: BestMetric):
@@ -175,10 +172,9 @@ def update_best(model, metric, best: BestMetric):
 
 def train_and_update_best(args: PromptEMArgs, model, optimizer, scaler, train_dataloader, valid_dataloader,
                           test_dataloader, best: BestMetric, prompt=True):
-    metric, ms = inner_train(args, model, optimizer, scaler, train_dataloader, valid_dataloader, test_dataloader,
+    metric = inner_train(args, model, optimizer, scaler, train_dataloader, valid_dataloader, test_dataloader,
                              prompt)
     update_best(model, metric, best)
-    return ms
 
 
 def self_training(args: PromptEMArgs, data: PromptEMData):
