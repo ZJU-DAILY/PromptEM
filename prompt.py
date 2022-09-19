@@ -38,7 +38,7 @@ def get_prompt_components(args: PromptEMArgs):
         '{"placeholder":"text_a"} {"placeholder":"text_b"} {"soft": "Are they matched ? "} {"mask"}',
         '{"placeholder":"text_a"} {"placeholder":"text_b"} Are they matched ? {"mask"}',
     ]
-    classes, label_words = get_prompt_class_label_words()
+    classes, label_words = get_prompt_class_label_words(args)
     plm, tokenizer, model_config, WrapperClass = load_plm(args.model_type, args.model_name_or_path)
     template = PtuningTemplate(
         model=plm,
