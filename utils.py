@@ -176,7 +176,8 @@ read_entities_funs = {
     "semi-rel": (read_rel_entities, read_semi_entities),
     "semi-text-c": (read_semi_entities, read_text_entities),
     "semi-text-w": (read_semi_entities, read_text_entities),
-    "rel-text": (read_text_entities, read_rel_entities)
+    "rel-text": (read_text_entities, read_rel_entities),
+    "geo-heter": (read_rel_entities, read_rel_entities),
 }
 
 
