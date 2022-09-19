@@ -9,7 +9,7 @@ if __name__ == '__main__':
     set_logger("PromptEM")
     tasks = [common_args.data_name]
     if common_args.data_name == "all":
-        tasks = ["rel-heter", "rel-text", "semi-heter", "semi-homo", "semi-rel", "semi-text-c", "semi-text-w"]
+        tasks = ["rel-heter", "rel-text", "semi-heter", "semi-homo", "semi-rel", "semi-text-c", "semi-text-w", "geo-heter"]
     for data_type in tasks:
         # args and global data
         args = parse_em_args(common_args, data_type)
