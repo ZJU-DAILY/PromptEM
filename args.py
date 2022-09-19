@@ -69,7 +69,7 @@ def parse_args():
     parser.add_argument("--add_token", default=True)
     parser.add_argument("--data_name", "-d", type=str,
                         choices=["rel-heter", "rel-text", "semi-heter", "semi-homo", "semi-rel", "semi-text-c",
-                                 "semi-text-w", "all"], default="all")
+                                 "semi-text-w","geo-heter", "all"], default="all")
     parser.add_argument("--template_no", "-tn", type=int, default=0, choices=[0, 1, 2, 3, 4, 5])
     parser.add_argument("--self_training", "-st", action="store_true", default=False)
     parser.add_argument("--dynamic_dataset", "-dd", type=int, default=-1,
