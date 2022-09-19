@@ -36,7 +36,7 @@ python main.py -d=rel-heter -k=0.1 -st -dd=8 -ur=0.05 -er=0.05
 The meaning of the flags:
 
 - `--model_name_or_path`: the name or local path of the pre-trained language model. e.g. `roberta-base`
-- `--data_name`: the name of the dataset. options: `[rel-heter, rel-text, semi-heter, semi-homo, semi-rel, semi-text-c,semi-text-w, all]`
+- `--data_name`: the name of the dataset. options: `[rel-heter, rel-text, semi-heter, semi-homo, semi-rel, semi-text-c,semi-text-w, geo-heter, all]`
 - `--k`: the proportion of training data used. e.g. `0.1`
 - `--num_iter`: the number of iterations. e.g. `1`
 - `--template_no`: the number of templates used in PromptEM. options: `[0,1,2,3]`
