@@ -6,15 +6,6 @@ For more technical details, see [PromptEM: Prompt-tuning for Low-resource Genera
 
 ![The illustration of fine-tuning and prompt-tuning. ](./prompt-tuning.jpg)
 
-## Requirements
-
-- Python 3.7.11
-- PyTorch 1.10.0+cu113
-- HuggingFace Transformers 4.16.2
-- OpenPrompt 0.1.2
-- scikit-learn 1.0.2
-- ...
-
 ## Datasets
 
 We use eight real-world benchmark datasets with different structures from [Machamp](https://github.com/megagonlabs/machamp) and [Geo-ER](https://github.com/PasqualeTurin/Geo-ER).
@@ -53,3 +44,37 @@ The meaning of the flags:
 - `--student_epochs` : the number of epochs for training student model. e.g. `30`
 - `--batch_size`: batch size. e.g. `32`
 - `--lr`: learning rate. e.g.`1e-5`
+
+## Reproduction
+
+All the experiments are conducted on an Ubuntu Server with an **Intel Xeon Silver 4216 CPU** and an **NVIDIA A100 GPU**.
+
+### Initial the environment
+
+```
+conda create -n promptem python=3.7
+const activate promptem
+pip install torch==1.10.0+cu113 -f https://download.pytorch.org/whl/torch_stable.html
+pip install transformers==4.16.2
+pip install scikit-learn==1.0.2
+```
+
+Note that you **do not** need to install `OpenPrompt` by `pip` manually.
+
+We notice that the best hyper-parameters can be sensitive to your server environment and package version. If you do not have the same environment, we highly recommend you run the search for hyper-parameters in your environment.
+
+We provide an example search script in [search.sh](search.sh)
+
+### Download the PLM [Optional]
+
+We use RoBERTa-base as the backbone structure of our model in all the experiments.
+
+You can download the pre-trained checkpoint from [huggingface](https://huggingface.co/roberta-base) manually.
+
+### Reproduce the result
+
+You can train the model using the best hyper-parameters we provided in [low_configs.json](low_configs.json).
+
+We also provide the corresponding logs in [logs](logs).
+
+See [Quick Start](#quick-start) for more details of training parameters.
